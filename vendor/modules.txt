@@ -51,7 +51,6 @@ github.com/chromedp/chromedp
 github.com/chromedp/chromedp/device
 github.com/chromedp/chromedp/kb
 # github.com/davecgh/go-spew v1.1.1
-## explicit
 github.com/davecgh/go-spew/spew
 # github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
 github.com/gobwas/httphead
@@ -83,11 +82,22 @@ github.com/vugu/html/atom
 # github.com/vugu/vjson v0.0.0-20200505061711-f9cbed27d3d9
 ## explicit
 github.com/vugu/vjson
+# github.com/vugu/vugu v0.3.4
+## explicit
+github.com/vugu/vugu
+github.com/vugu/vugu/devutil
+github.com/vugu/vugu/distutil
+github.com/vugu/vugu/domrender
+github.com/vugu/vugu/gen
+github.com/vugu/vugu/internal/htmlx
+github.com/vugu/vugu/internal/htmlx/atom
+github.com/vugu/vugu/js
+github.com/vugu/vugu/simplehttp
+github.com/vugu/vugu/vugufmt
 # github.com/vugu/xxhash v0.0.0-20191111030615-ed24d0179019
 ## explicit
 github.com/vugu/xxhash
 # golang.org/x/sys v0.0.0-20200724161237-0e2f3a69832c
-## explicit
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 # golang.org/x/text v0.3.0
