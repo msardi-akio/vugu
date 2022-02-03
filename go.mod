@@ -1,4 +1,4 @@
-module github.com/vugu/vugu
+module github.com/msardi-meg/vugu
 
 require (
 	github.com/chromedp/cdproto v0.0.0-20191009033829-c22f49c9ff0a
